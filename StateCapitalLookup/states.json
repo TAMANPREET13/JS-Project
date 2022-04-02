@@ -1,0 +1,181 @@
+[{
+        "key": "AN",
+        "name": "Andaman and Nicobar Islands",
+        "capital": "Port Blair"
+    },
+    {
+        "key": "AP",
+        "name": "Andhra Pradesh",
+        "capital": "Amaravati"
+    },
+    {
+        "key": "AR",
+        "name": "Arunachal Pradesh",
+        "capital": "Itanagar"
+    },
+    {
+        "key": "AS",
+        "name": "Assam",
+        "capital": "Dispur"
+    },
+    {
+        "key": "BR",
+        "name": "Bihar",
+        "capital": "Patna"
+    },
+    {
+        "key": "CG",
+        "name": "Chandigarh",
+        "capital": "Chandigarh"
+    },
+    {
+        "key": "CH",
+        "name": "Chhattisgarh",
+        "capital": "Raipur"
+    },
+    {
+        "key": "DH",
+        "name": "Dadra and Nagar Haveli",
+        "capital": "Daman"
+    },
+    {
+        "key": "DD",
+        "name": "Daman and Diu",
+        "capital": "Daman"
+    },
+    {
+        "key": "DL",
+        "name": "Delhi",
+        "capital": "New Delhi"
+    },
+    {
+        "key": "GA",
+        "name": "Goa",
+        "capital": "Panaji"
+    },
+    {
+        "key": "GJ",
+        "name": "Gujarat",
+        "capital": "Gandhinagar"
+    },
+    {
+        "key": "HR",
+        "name": "Haryana",
+        "capital": "Chandigarh"
+    },
+    {
+        "key": "HP",
+        "name": "Himachal Pradesh",
+        "capital": "Shimla"
+    },
+    {
+        "key": "JK",
+        "name": "Jammu and Kashmir",
+        "capital": "Srinagar (Summer),Jammu (Winter)"
+    },
+    {
+        "key": "JH",
+        "name": "Jharkhand",
+        "capital": "Ranchi"
+    },
+    {
+        "key": "KA",
+        "name": "Karnataka",
+        "capital": "Bengaluru"
+    },
+    {
+        "key": "KL",
+        "name": "Kerala",
+        "capital": "Thiruvananthapuram"
+    },
+    {
+        "key": "LD",
+        "name": "Lakshadweep",
+        "capital": "Kavaratti"
+    },
+    {
+        "key": "MP",
+        "name": "Madhya Pradesh",
+        "capital": "Bhopal"
+    },
+    {
+        "key": "MH",
+        "name": "Maharashtra",
+        "capital": "Mumbai"
+    },
+    {
+        "key": "MN",
+        "name": "Manipur",
+        "capital": "Imphal"
+    },
+    {
+        "key": "ML",
+        "name": "Meghalaya",
+        "capital": "Shillong"
+    },
+    {
+        "key": "MZ",
+        "name": "Mizoram",
+        "capital": "Aizawl"
+    },
+    {
+        "key": "NL",
+        "name": "Nagaland",
+        "capital": "Kohima"
+    },
+    {
+        "key": "OR",
+        "name": "Odisha",
+        "capital": "Bhubaneswar"
+    },
+    {
+        "key": "PY",
+        "name": "Puducherry",
+        "capital": "Pondicherry"
+    },
+    {
+        "key": "PB",
+        "name": "Punjab",
+        "capital": "Chandigarh"
+    },
+    {
+        "key": "RJ",
+        "name": "Rajasthan",
+        "capital": "Jaipur"
+    },
+    {
+        "key": "SK",
+        "name": "Sikkim",
+        "capital": "Gangtok"
+    },
+    {
+        "key": "TN",
+        "name": "Tamil Nadu",
+        "capital": "Chennai"
+    },
+    {
+        "key": "TS",
+        "name": "Telangana",
+        "capital": "Hyderabad"
+    },
+    {
+        "key": "TR",
+        "name": "Tripura",
+        "capital": "Agartala"
+    },
+    {
+        "key": "UP",
+        "name": "Uttar Pradesh",
+        "capital": "Lucknow"
+    },
+    {
+        "key": "UK",
+        "name": "Uttarakhand",
+        "capital": "Dehradun (Winter) Gairsain (Summer)"
+    },
+    {
+        "key": "WB",
+        "name": "West Bengal",
+        "capital": "Kolkata"
+    }
+]
